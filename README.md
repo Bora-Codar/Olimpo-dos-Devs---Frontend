@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
 <!--   <img alt="Ícone do projeto" title="Terminal" src=".github/" width="100px" /> -->
    <img alt="Logo do projeto" src="https://raw.githubusercontent.com/Bora-Codar/Olimpo-dos-Devs---Backend/master/project_src/logo.png">
@@ -95,3 +96,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+=======
+# Olimpo-dos-Devs-Frontend
+>>>>>>> 3f7aac5d1c14c83f9c17c0ed30f72b4ee501d15e
